@@ -7,7 +7,7 @@ class RectangleSimple:
         return self.width * self.height
 
 
-# Exemple 2 du cours : Declaration of a class with attributes and methods, including a constructor
+# Exemple : Declaration of a class with attributes and methods, including a constructor
 class Rectangle:
     def __init__(self, length, width, color="red"):
         self.length = length
