@@ -1,4 +1,4 @@
-from library import VHF, DVD, Friend, Library, clean_movie_data
+from Library.library import VHF, DVD, Friend, Library, clean_movie_data
 
 # Raw Data
 films = [

@@ -1,5 +1,5 @@
 # Import the classes from our models.py file
-from models import User, Moderator, ImageFile
+from Projet.models import User, Moderator, ImageFile
 
 # Create users
 alice = User("Alice", "pass123")
